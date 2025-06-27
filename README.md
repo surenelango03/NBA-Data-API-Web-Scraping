@@ -17,6 +17,7 @@ However, much of this data is locked behind web interfaces or APIs that are not 
 This project focuses on **web API data scraping** from the NBA's official stats API, collecting player statistics for every season from 2015-16 through 2024-25 (including both Regular Season and Playoffs). The data is saved in an Excel file for further analysis and machine learning applications.
 
 With the conclusion of the 2024-25 NBA season, this dataset enables a wide range of studies and analytics, from player performance trends to advanced ML model development for sports analytics.
+![image](https://github.com/user-attachments/assets/4ebcd6bd-9591-402d-b79a-82e9e7b15a5d)
 
 ## Features
 
