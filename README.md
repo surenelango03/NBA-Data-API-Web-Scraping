@@ -79,4 +79,4 @@ nba-data-scraping/
 This project is for educational and research purposes only.
 
 ---
-*Inspired by the NBA data scraping tutorial by Data Professor.*
+*Inspired by the NBA data scraping tutorial by Alex Sington.*
